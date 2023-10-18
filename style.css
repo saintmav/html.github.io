@@ -5,19 +5,19 @@ body {
 
 h1 {
 	text-align: center;
-	font-family: Stamp RSPK Smudge Regular;
+	font-family: Stamp RSPK Smudge Regular, monospace;
 	color: white;
 }
 
 h4 {
 	text-align: center;
-	font-family: Stamp RSPK Three;
+	font-family: Stamp RSPK Three, monospace;
 	color: white;
 }
 
 h3 {
 	text-align: center;
-	font-family: Stamp RSPK Smudge Regular;
+	font-family: Stamp RSPK Smudge Regular, monospace;
 	color: white;
 }
 
